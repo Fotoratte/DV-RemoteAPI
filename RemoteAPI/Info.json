@@ -1,0 +1,8 @@
+{
+    "Id":"RemoteAPI",
+    "DisplayName":"Derail Valley RemoteAPI",
+    "Author":"Rex",
+    "Version":"0.0.1",
+    "ManagerVersion":"0.31.1.0",
+    "EntryMethod":"RemoteAPI.Main.Load"
+}
